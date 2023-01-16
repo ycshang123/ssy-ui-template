@@ -9,7 +9,7 @@
         "preview": "vite preview"
     },
     "dependencies": {
-        "ycshang-ui-vite": "^1.8.0",
+        "ycshang-ui-vite": "^0.4.0",
         "vue": "^3.2.41"
     },
     "devDependencies": {
