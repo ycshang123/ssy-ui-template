@@ -2,12 +2,9 @@
  * @Author: ycshang
  * @Date: 2023-01-11 18:22:27
  * @LastEditors: ycshang
- * @LastEditTime: 2023-01-15 11:43:01
+ * @LastEditTime: 2023-01-16 19:27:42
 -->
 <script setup lang="ts">
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
