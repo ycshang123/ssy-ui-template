@@ -10,8 +10,9 @@
   "author": "ycshang",
   "license": "ISC",
   "dependencies": {
-    "ycshang-ui-vite": "^0.3.0",
-    "vue": "^3.2.41"
+    "vite-plugin-dts": "^1.7.1",
+    "vue": "^3.2.41",
+    "ycshang-ui-vite": "^0.4.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
